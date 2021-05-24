@@ -1,3 +1,5 @@
+Home assignment 
+
 ## gn_algoritm
 The Girvan-Newman is used for community detection. 
 
